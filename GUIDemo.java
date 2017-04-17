@@ -35,6 +35,7 @@ public class GUIDemo extends JFrame
         panel.add(smallerButton);
 
         setVisible(true);
+		// my changed element 
     }
 
     /**
